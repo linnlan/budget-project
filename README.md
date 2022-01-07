@@ -1,2 +1,2 @@
 # budget-project
-https://linnlan.github.io/budget-project/
+https://hopeful-goldwasser-c0225c.netlify.app/
